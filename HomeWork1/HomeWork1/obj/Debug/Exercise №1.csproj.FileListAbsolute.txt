@@ -1,0 +1,6 @@
+A:\C# программы\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+A:\C# программы\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+A:\C# программы\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+A:\C# программы\HomeWork1\HomeWork1\obj\Debug\Exercise №1.csproj.CoreCompileInputs.cache
+A:\C# программы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+A:\C# программы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
